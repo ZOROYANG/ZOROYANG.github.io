@@ -1,6 +1,6 @@
 title: Yang Ming
 url: "http://zoroyang.github.io"
-baseurl: "/researcher"
+baseurl: "/"
 
 markdown: kramdown
 
